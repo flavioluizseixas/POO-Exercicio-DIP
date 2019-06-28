@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DeviceFactory",
+            "request": "launch",
+            "mainClass": "clients.DeviceFactory",
+            "projectName": "DependencyInversion"
+        }
+    ]
+}
